@@ -1,1 +1,4 @@
-# oximy13.github.io
+Coded by Oximy
+
+Reload the page to play again!
+Have fun!
