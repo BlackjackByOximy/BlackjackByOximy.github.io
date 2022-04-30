@@ -1,2 +1,2 @@
-# oximy13.github.io
+# BlackjackByOximy.github.io
 Reload the page to play again!
